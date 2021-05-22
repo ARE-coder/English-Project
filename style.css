@@ -1,0 +1,28 @@
+li{
+	display:inline;
+	margin-left: 10px;
+	list-style: none;
+ font-family: cursive;
+	float:right;
+	top:10px;
+	right:30px;
+	cursor:pointer;
+	
+}
+#header{
+color:cyan;
+	text-align: center;
+}
+.PP{
+	height:500px;
+	Width: 600px;
+	align-content: center;
+}
+.Center{
+	text-align: center;
+}
+#Proj{
+	text-align: center;
+
+}
+	
